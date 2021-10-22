@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\Terreno\Terreno\bin\Debug\netcoreapp3.1\Terreno.exe
+C:\Users\Simon\source\repos\Terreno\Terreno\bin\Debug\netcoreapp3.1\Terreno.deps.json
+C:\Users\Simon\source\repos\Terreno\Terreno\bin\Debug\netcoreapp3.1\Terreno.runtimeconfig.json
+C:\Users\Simon\source\repos\Terreno\Terreno\bin\Debug\netcoreapp3.1\Terreno.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\Terreno\Terreno\bin\Debug\netcoreapp3.1\Terreno.dll
+C:\Users\Simon\source\repos\Terreno\Terreno\bin\Debug\netcoreapp3.1\Terreno.pdb
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.csproj.AssemblyReference.cache
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.csproj.CoreCompileInputs.cache
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.dll
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.pdb
+C:\Users\Simon\source\repos\Terreno\Terreno\obj\Debug\netcoreapp3.1\Terreno.genruntimeconfig.cache
